@@ -1,0 +1,17 @@
+系统时间
+2026年 10月 19日 星期一 22:08:00 CST
+
+最近 10 条命令
+  134  [200~chmod +x 2027/Mars-per/homework/homework01.sh
+  135  history -a
+  136  ./2027/Mars-per/homework/homework01.sh
+  137  cat 2027/Mars-per/homework/output.txt~
+  138  chmod +x 2027/Mars-per/homework/homework01.sh
+  139  ./2027/Mars-per/homework/homework01.sh
+  140  ls -l 2027/Mars-per/homework/homework01.sh
+  141  chmod +x 2027/Mars-per/homework/homework01.sh
+  142  history -a
+  143  {   echo "系统时间";   date;   echo;    echo "最近 10 条命令";   history | tail -n 10;   echo;    echo "笔记字数";   wc -m ../notes/lesson01.md; } > output.txt
+
+笔记字数
+4560 ../notes/lesson01.md
